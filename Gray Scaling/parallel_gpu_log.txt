@@ -1,0 +1,6 @@
+Time taken for GPU grayscale conversion: 0.3543 seconds
+Initial CPU usage: 8.7%
+Final CPU usage: 18.7%
+Initial memory usage: 308.5000 MB
+Final memory usage: 448.8789 MB
+Memory used during execution: 140.3789 MB

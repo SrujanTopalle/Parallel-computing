@@ -1,0 +1,6 @@
+Time taken for grayscale conversion: 0.0128 seconds
+Initial CPU usage: 11.8%
+Final CPU usage: 5.0%
+Initial memory usage: 18.6484 MB
+Final memory usage: 20.7852 MB
+Memory used during execution: 2.1367 MB
