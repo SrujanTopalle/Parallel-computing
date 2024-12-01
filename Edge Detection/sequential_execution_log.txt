@@ -1,0 +1,8 @@
+SEQUENTIAL
+Time taken for edge detection: 1.50 seconds
+Initial CPU usage: 0.00%
+Final CPU usage: 95.80%
+Initial memory usage: 39.93 MB
+Final memory usage: 40.12 MB
+Memory used during execution: 0.20 MB
+--------------------------------------------------
