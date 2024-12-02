@@ -1,4 +1,4 @@
-CPU PARALLEL
+GPU PARALLEL
 Execution Time: 552.30 seconds
 CPU Usage: 39.7%
 Memory Usage: 66.7%
