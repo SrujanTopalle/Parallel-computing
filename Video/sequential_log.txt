@@ -1,6 +1,7 @@
-Time taken for grayscale conversion: 0.0128 seconds
-Initial CPU usage: 11.8%
-Final CPU usage: 5.0%
-Initial memory usage: 18.6484 MB
-Final memory usage: 20.7852 MB
-Memory used during execution: 2.1367 MB
+SEQUENTIAL
+Execution Time: 1674.75 seconds
+CPU Usage: 74.2%
+Memory Usage: 39.9%
+GPU Used: No GPU
+GPU Memory Allocated: 0.00 MB
+--------------------------------------------------
