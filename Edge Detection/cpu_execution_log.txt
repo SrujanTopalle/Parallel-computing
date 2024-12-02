@@ -1,17 +1,8 @@
 CPU PARALLEL
 Time taken for edge detection: 0.95 seconds
 Initial CPU usage: 0.00%
-Final CPU usage: 0.00%
+Final CPU usage: 47.20%
 Initial memory usage: 40.85 MB
 Final memory usage: 41.57 MB
-Memory used during execution: 0.73 MB
---------------------------------------------------
-CPU PARALLEL
-Time taken for edge detection: 1.90 seconds
-Initial CPU usage: 0.00%
-CPU usage during execution: 0.00%
-Final CPU usage: 0.00%
-Initial memory usage: 40.69 MB
-Final memory usage: 41.87 MB
 Memory used during execution: 1.18 MB
 --------------------------------------------------
