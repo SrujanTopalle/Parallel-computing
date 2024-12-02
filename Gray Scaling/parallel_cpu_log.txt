@@ -1,6 +1,8 @@
+CPU PARALLEL
 Time taken for parallel grayscale conversion: 0.6161 seconds
 Initial CPU usage: 8.4%
 Final CPU usage: 42.5%
 Initial memory usage: 34.9375 MB
 Final memory usage: 39.7383 MB
 Memory used during execution: 4.8008 MB
+--------------------------------------------------
