@@ -1,5 +1,5 @@
 SEQUENTIAL
-Execution Time: 1674.75 seconds
+Execution Time: 1674.41 seconds
 CPU Usage: 74.2%
 Memory Usage: 39.9%
 GPU Used: No GPU
